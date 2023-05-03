@@ -4,7 +4,7 @@ function Footer() {
             <div className="container">
                 @ {new Date().getFullYear() + " "}
                 Viko Design
-                <a className="grey-text text-lighten-4 right" href="#!">GitHub</a>
+                <a className="grey-text text-lighten-4 right" href="https://github.com/tviko/ReactMovies">GitHub</a>
             </div>
         </div>
     </footer>
