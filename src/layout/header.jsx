@@ -5,7 +5,7 @@ function Header() {
                 <a href="!#"
                 className="brand-logo">Поиск фильмов</a>
                 <ul id="nav-mobile" className="right hide-on-med-and-down">
-                    <li><a href="!#">Репозиторий</a></li>
+                    <li><a href="https://github.com/tviko/ReactMovies">Репозиторий</a></li>
                 </ul>
             </div>
         </div>
